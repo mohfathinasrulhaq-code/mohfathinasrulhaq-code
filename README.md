@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-banner.svg" alt="Banner profil" width="100%" />
+<img src="./banner profil (1).svg" alt="Banner profil" width="100%" />
 
 <br />
 
