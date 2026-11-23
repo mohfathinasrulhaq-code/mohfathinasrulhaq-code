@@ -21,7 +21,7 @@
   <!-- Frame foto kiri (persegi) -->
   <rect x="30" y="34" width="184" height="184" fill="#241c33" stroke="#3a2f52" stroke-width="1"/>
   <!-- GANTI: tempel base64 foto menggantikan PASTE_BASE64_DI_SINI (atau pakai skrip inject_foto.py) -->
-  <image href="data:image/png;base64,PASTE_BASE64_DI_SINI" x="34" y="38" width="176" height="176" preserveAspectRatio="xMidYMid slice"/>
+  <image src="./img/profile.png" x="34" y="38" width="176" height="176" preserveAspectRatio="xMidYMid slice"/>
   <!-- Siku frame -->
   <path d="M 24,52 L 24,28 L 48,28" fill="none" stroke="#ffb347" stroke-width="2"/>
   <path d="M 196,28 L 220,28 L 220,52" fill="none" stroke="#ffb347" stroke-width="2"/>
