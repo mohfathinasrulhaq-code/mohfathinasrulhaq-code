@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./profile-banner (2).svg" alt="Banner profil" width="100%" />
-
 <br />
 
 <a href="https://mfnhstudio.gt.tc"><img src="https://img.shields.io/badge/Website-mfnhstudio.gt.tc-ff6b6b?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1b1526" alt="Website" /></a>
