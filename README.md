@@ -11,9 +11,8 @@
 
 <br />
 
-## 👋 Tentang Saya
-
-> Satu kalimat motto atau deskripsi singkat tentang dirimu.
+##  About Me
+> Still Survive With Claude AI.
 
 - 💼 Saat ini bekerja sebagai **Frontend** di **NOXORA STUDIO**
 - 🏆 Design UI/UX dan Frontend 
@@ -23,7 +22,7 @@
 
 <br />
 
-## 🛠️ Keahlian
+## Skils
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-1b1526?style=flat-square&logo=typescript&logoColor=3178C6" />
@@ -32,15 +31,20 @@
   <img src="https://img.shields.io/badge/Python-1b1526?style=flat-square&logo=python&logoColor=FFD43B" />
   <img src="https://img.shields.io/badge/PostgreSQL-1b1526?style=flat-square&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/Docker-1b1526?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Node.js-1b1526?style=flat-square&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Lua-1b1526?style=flat-square&logo=lua&logoColor=2C2D72" />
+  <img src="https://img.shields.io/badge/HTML-1b1526?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS-1b1526?style=flat-square&logo=css&logoColor=1572B6" />
+
 </p>
+<br/>
 
-<br />
-
-## 📊 Statistik GitHub
-
+## Tools
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&hide_border=true&bg_color=1b1526&title_color=ff6b6b&text_color=e8e1f0&icon_color=ffb347" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&hide_border=true&bg_color=1b1526&title_color=ff6b6b&text_color=e8e1f0" />
+  <img src="https://img.shields.io/badge/Gemini-1b1526?style=flat-square&logo=googlegemini&logoColor=8E75B2" />
+  <img src="https://img.shields.io/badge/ChatGPT-1b1526?style=flat-square&logo=openai&logoColor=74AA9C" />
+  <img src="https://img.shields.io/badge/DeepSeek-1b1526?style=flat-square&logo=deepseek&logoColor=4D6BFE" />
+  <img src="https://img.shields.io/badge/Claude%20AI-1b1526?style=flat-square&logo=claude&logoColor=D97757" />
 </p>
 
 <br />
