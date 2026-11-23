@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img/profile.png" alt="Foto profil" height="200" /><img src="profile-banner(3).svg" alt="Banner profil" height="200" />
+<img src="img/profile.png" alt="Foto profil" height="200" /><img src="username/profile-banner (3).svg" alt="Banner profil" height="200" />
 
 <br /><br />
 
