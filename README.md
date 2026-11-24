@@ -48,9 +48,17 @@
   <img src="https://img.shields.io/badge/DeepSeek-1b1526?style=flat-square&logo=deepseek&logoColor=4D6BFE" />
   <img src="https://img.shields.io/badge/Claude%20AI-1b1526?style=flat-square&logo=claude&logoColor=D97757" />
   <img src="https://img.shields.io/badge/Supabase-1b1526?style=flat-square&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/VS%20Code-1b1526?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/MySQL-1b1526?style=flat-square&logo=mysql&logoColor=4479A1" />
 </p>
 
 <br />
+## Divice
+<p>
+  <img src="https://img.shields.io/badge/Windows-1b1526?style=flat-square&logo=windows&logoColor=0078D6" />
+  <img src="https://img.shields.io/badge/Linux-1b1526?style=flat-square&logo=linux&logoColor=FCC624" />
+</p>
+<br/>
 
 ## Proyek Pilihan
 
