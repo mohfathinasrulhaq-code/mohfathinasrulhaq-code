@@ -6,6 +6,7 @@
 <a href="https://linkedin.com/in/nasrulhaq"><img src="https://img.shields.io/badge/LinkedIn-nasrulhaq-ffb347?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1b1526" alt="LinkedIn" /></a>
 <a href="https://instagram.com/nasrul.elhaq_"><img src="https://img.shields.io/badge/Instagram-@nasrul.elhaq_-7ee8c7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1b1526" alt="Instagram" /></a>
 <a href="mailto:mohfathinasrulhaq@gmail.com"><img src="https://img.shields.io/badge/Email-Hubungi%20Saya-c4a1ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1b1526" alt="Email" /></a>
+<a href="https://sociabuzz.com/noxora_studio/tribe"><img src="https://img.shields.io/badge/SociaBuzz-Dukung%20Saya-c4a1ff?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=1b1526" alt="SociaBuzz" /></a>
 
 </div>
 
