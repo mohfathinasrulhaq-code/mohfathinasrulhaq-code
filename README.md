@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Lua-1b1526?style=flat-square&logo=lua&logoColor=2C2D72" />
   <img src="https://img.shields.io/badge/HTML-1b1526?style=flat-square&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS-1b1526?style=flat-square&logo=css&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Luau-1b1526?style=flat-square&logo=luau&logoColor=00A2FF" />
 
 </p>
 <br/>
@@ -45,13 +46,16 @@
   <img src="https://img.shields.io/badge/ChatGPT-1b1526?style=flat-square&logo=openai&logoColor=74AA9C" />
   <img src="https://img.shields.io/badge/DeepSeek-1b1526?style=flat-square&logo=deepseek&logoColor=4D6BFE" />
   <img src="https://img.shields.io/badge/Claude%20AI-1b1526?style=flat-square&logo=claude&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Supabase-1b1526?style=flat-square&logo=supabase&logoColor=3ECF8E" />
 </p>
 
 <br />
 
-## 🚀 Proyek Pilihan
+## Proyek Pilihan
 
 | Proyek | Deskripsi | Teknologi |
 | :-- | :-- | :-- |
-| [nama-proyek-1](https://github.com/USERNAME_GITHUB/nama-proyek-1) | Deskripsi singkat | TS, Node |
-| [nama-proyek-2](https://github.com/USERNAME_GITHUB/nama-proyek-2) | Deskripsi singkat | Go |
+| Live Interaktif (https://github.com/mohfathinasrulhaq-code/RP-Plugin-Roblox-Studio-2026.git)| Skrip ynag langsung terintergrasi dengan MCP server dan digunakan sebagai alat penghubung Roblox - Tiktok Live | Lua, Python |
+| Sistem Kasir Toko Amanah (https://github.com/mohfathinasrulhaq-code/sistem-kasir-pos-by-bismillah-amiin-teams.git) | Penugasan kuliah, Membuat sebuah WebTolls yang bermafaat untuk membantu kebutuhan kegiatan seseorang | Pyhton,PHP,SQL||
+|Trading Journal(https://github.com/mohfathinasrulhaq-code/trading-journal-webapk.git)|Membangun sebuah WebAPK yang berfungsi sebagai alat pencatatan para shobat Trader,lengkap dengan Presentase untung,rugi dan winrate membuat user mudah untuk memahami |TypeScript,Node.js,SQL,Supabase|
+|Role Play Plugin Roblox (https://github.com/mohfathinasrulhaq-code/RP-Plugin-Roblox-Studio-2026.git)|RP-Plugin adalah Roblox Studio Developer Suite & Framework untuk memetakan Roleplay dengan sistem Live Economy yang seimbang—menghadirkan perdagangan P2P aman, sistem Faucet & Sink anti-hiperinflasi, serta spawner node map interaktif sekali klik.|Luau,Python|
