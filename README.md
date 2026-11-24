@@ -13,11 +13,11 @@
 <br />
 
 ##  About Me
-> Still Survive With Claude AI.
+> Frontend and Disign UI/UX.
 
 - 💼 Saat ini bekerja sebagai **Frontend** di **NOXORA STUDIO**
 - 🏆 Design UI/UX dan Frontend 
-- 🎓 Belajar di **Universitas Internasional Semen Indonesia**, jurusan **Sistem Informasi**
+- 🎓 Belajar di **Universitas Internasional Semen Indonesia(UISI)**, jurusan **Sistem Informasi** Alumnus ***MA Mamba'ul Ulum**
 - 🌱 Sedang mempelajari **IOT Mikrotik**
 - 📫 Cara terbaik menghubungiku : **mohfathinasrulhaq@gmail.com**
 
